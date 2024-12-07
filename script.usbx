@@ -1,0 +1,8 @@
+TITLE "DEMO"
+
+PRESS "WIN + R"
+TYPE "notepad"
+PRESS "ENTER"
+PRESS "ENTER"
+
+TYPE "Hello from XSCRIPT"
